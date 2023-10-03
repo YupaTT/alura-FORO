@@ -1,6 +1,15 @@
 # alura-FORO
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Alura_ONE-Challenge%234-orange">
+  <img src="https://img.shields.io/badge/Status-finalizado-blue"><br>
+  <img src="https://img.shields.io/badge/JRE-17-red">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.1.4-green">
+</p>
 
+<p align="center" >
+     <img width="300" heigth="300" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1673890737Prancheta_9.png?utm_campaign=alura_latam_-_challenge_email_projeto_8_esp&utm_medium=email&utm_source=RD+Station">
+</p>
 ## Descripción
 Este proyecto forma parte de un curso ofrecido por Alura y Oracle Next Education.
 

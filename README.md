@@ -24,4 +24,4 @@ Con la api podemos hacer las siguientes acciones.
 
 <h1>🔐 Signup</h1>
   
- <img src="https://github.com/Magucho/API_REST_With_SpringBoot/assets/98346054/db1bec12-5212-44e0-bced-babe312b0180"  width=800 height="350">
+ <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/signup.png"  width=800 height="350">

@@ -10,7 +10,7 @@ La API desarrollada facilita la comunicación entre la interfaz de usuario (fron
 
 - [MySql](https://www.mysql.com/)
 - [Java](https://www.java.com/en/)
-
+- [Token JWT](https://jwt.io/)
 - [Spring Security](https://start.spring.io/)
 
 ## Funcionalidad

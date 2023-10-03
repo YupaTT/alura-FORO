@@ -19,7 +19,7 @@ public class CourseController {
     @Autowired
     private CourseService coursesService;
 
-    @PostMapping
+    @PostMapping("/add")
     public ResponseEntity<List<Course>> createCourses(@RequestBody @Valid List<Course> courses) {
         return ResponseEntity.ok(
                 coursesService.createCourses(courses)

@@ -25,3 +25,31 @@ Con la api podemos hacer las siguientes acciones.
 <h1>🔐 Signup</h1>
   
  <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/signup.png"  width=800 height="350">
+
+<h1>🔐 login</h1>
+
+ <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/login.png"  width=800 height="350">
+
+<h1>🔐 Course</h1>
+ crear,  eliminar, listar
+ <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/course.png"  width=800 height="350">
+
+<h1>🔐 Topics</h1>
+ crear,  eliminar, listar
+ <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/topics.png"  width=800 height="350">
+
+<h1>🔐 Answers</h1>
+ crear,  eliminar, listar
+ <img src="https://github.com/YupaTT/alura-FORO/blob/main/asset/answers.png"  width=800 height="350">
+
+
+
+## Agradecimientos
+🧡 <strong>Oracle</strong></br>
+<a href="https://www.linkedin.com/company/oracle/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+💙 <strong>Alura Latam</strong></br>
+<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+

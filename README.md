@@ -14,7 +14,6 @@
 Este proyecto forma parte de un curso ofrecido por Alura y Oracle Next Education.
 
 La API desarrollada facilita la comunicación entre la interfaz de usuario (front-end) y la base de datos. A través de diversos métodos, es posible llevar a cabo operaciones como la creación, obtención, edición y eliminación de usuarios, tópicos, categorías y respuestas. Cada usuario debe autenticarse utilizando su nombre de usuario y contraseña, y posteriormente emplear el token generado para llevar a cabo las diferentes solicitudes.
-
 ## Tecnologías utilizadas:
 
 - [MySql](https://www.mysql.com/)
